@@ -1,0 +1,23 @@
+{
+  "name": "safety-shorts-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "dev": "live-server public"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noogooz/safety-shorts-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noogooz/safety-shorts-project/issues"
+  },
+  "homepage": "https://github.com/noogooz/safety-shorts-project#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
